@@ -1,0 +1,13 @@
+Para iniciar un proyecto con node se crea un fichero con los archivos que va a tener el proyecto y en la terminal
+se inicializa el proyecto con
+
+    npm init -y
+
+Y se crea un archivo.js para ejecutar el código
+
+Para usar express y crear un servidor con esta librería se usa 
+
+    npm i express 
+
+
+ver código de app.js para los siguientes pasos
